@@ -1,0 +1,8 @@
+# C9 stuff:
+.c9/
+
+# pycache:
+__pycache__/
+
+# git stuff:
+git/
